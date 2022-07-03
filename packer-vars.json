@@ -1,4 +1,6 @@
 {
+    "aws_access_key": "AKIAWAFRNIDIX3X46VGF",
+    "aws_secret_key": "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",
     "region": "us-east-1",
     "source_ami": "ami-08d4ac5b634553e16",
     "instance_type": "t2.micro",
